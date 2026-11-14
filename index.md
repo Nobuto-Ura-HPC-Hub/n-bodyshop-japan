@@ -8,8 +8,6 @@
 The N-Body Shop 登戸浦支店は、The N-Body Shop にあやかって名付けた、HPC についての情報発信のサイトです。
 本家の The N-Body Shop とは、縁もゆかりもありません。N 体計算以外も扱います。
 
-本家の The N-Body Shop（ワシントン大学）: [Web サイト](https://hpcc.astro.washington.edu/)、[GitHub](https://github.com/N-BodyShop)
-
 ## 結果
 
 MN-Core 2 の実機で計算した結果です。プログラムは、[Open MN-Core 2 SDK](https://nobuto-ura-hpc-hub.github.io/open-mncore2-sdk/)
@@ -19,6 +17,15 @@ MN-Core 2 の実機で計算した結果です。プログラムは、[Open MN-C
 |---|---|---|---|
 | <a href="results/3body.html"><img src="media/thumb-3body.png" width="180"></a> | <a href="results/solar.html"><img src="media/thumb-solar.png" width="180"></a> | <a href="results/plummer-4096.html"><img src="media/thumb-plummer-4096.png" width="180"></a> | <a href="results/plummer-32k.html"><img src="media/thumb-plummer-32k.png" width="180"></a> |
 
+## 記事
+
+- [HPC と分散メモリ（MN-Core 2 の N 体計算の例）](hpc-distributed-memory.md) — 4096 を超える粒子を、どう分けて計算したか
+
 ## 関連
 
 - [Open MN-Core 2 SDK](https://nobuto-ura-hpc-hub.github.io/open-mncore2-sdk/)（[GitHub](https://github.com/Nobuto-Ura-HPC-Hub/open-mncore2-sdk)）
+
+## 外部リンク
+
+- [The N-Body Shop](https://nbody.shop/) — 本家の The N-Body Shop。ワシントン大学で生まれた、天体物理学の数値シミュレーションの国際的な共同研究のグループ
+- [The N-Body Shop（GitHub）](https://github.com/N-BodyShop) — 本家が公開しているシミュレーションのコード（ChaNGa、Gasoline など）と解析の道具
