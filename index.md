@@ -28,4 +28,5 @@ MN-Core 2 の実機で計算した結果です。プログラムは、[Open MN-C
 ## 外部リンク
 
 - [The N-Body Shop](https://nbody.shop/) — 本家の The N-Body Shop。ワシントン大学で生まれた、天体物理学の数値シミュレーションの国際的な共同研究のグループ
+- [University of Washington N-Body Shop](https://hpcc.astro.washington.edu/) — The N-Body Shop が生まれた、ワシントン大学のページ
 - [The N-Body Shop（GitHub）](https://github.com/N-BodyShop) — 本家が公開しているシミュレーションのコード（ChaNGa、Gasoline など）と解析の道具
