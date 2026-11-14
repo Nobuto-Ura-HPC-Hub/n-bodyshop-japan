@@ -13,9 +13,10 @@ The N-Body Shop 登戸浦支店は、The N-Body Shop にあやかって名付け
 MN-Core 2 の実機で計算した結果です。プログラムは、[Open MN-Core 2 SDK](https://nobuto-ura-hpc-hub.github.io/open-mncore2-sdk/)
 の MNCL（登戸浦版）で作りました。
 
-| [3 体問題](results/3body.md) | [太陽系](results/solar.md) | [4096 粒子の球状星団の衝突](results/plummer-4096.md) | [32K 粒子の球状星団の衝突](results/plummer-32k.md) |
-|---|---|---|---|
-| <a href="results/3body.html"><img src="media/thumb-3body.png" width="180"></a> | <a href="results/solar.html"><img src="media/thumb-solar.png" width="180"></a> | <a href="results/plummer-4096.html"><img src="media/thumb-plummer-4096.png" width="180"></a> | <a href="results/plummer-32k.html"><img src="media/thumb-plummer-32k.png" width="180"></a> |
+<table style="table-layout: fixed; width: 100%;">
+<tr><th><a href="results/3body.html">3 体問題</a></th><th><a href="results/solar.html">太陽系</a></th><th><a href="results/plummer-4096.html">4096 粒子の球状星団の衝突</a></th><th><a href="results/plummer-32k.html">32K 粒子の球状星団の衝突</a></th></tr>
+<tr><td><a href="results/3body.html"><img src="media/thumb-3body.png" style="width: 100%;" alt="3 体問題"></a></td><td><a href="results/solar.html"><img src="media/thumb-solar.png" style="width: 100%;" alt="太陽系"></a></td><td><a href="results/plummer-4096.html"><img src="media/thumb-plummer-4096.png" style="width: 100%;" alt="4096 粒子の球状星団の衝突"></a></td><td><a href="results/plummer-32k.html"><img src="media/thumb-plummer-32k.png" style="width: 100%;" alt="32K 粒子の球状星団の衝突"></a></td></tr>
+</table>
 
 ## 記事
 
