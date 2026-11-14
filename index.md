@@ -1,6 +1,6 @@
 # The N-Body Shop 登戸浦支店
 
-<img src="media/noboto.jpg" width="320" alt="葛飾北斎『冨嶽三十六景 登戸浦』">
+<img src="media/nobuto.jpg" width="320" alt="葛飾北斎『冨嶽三十六景 登戸浦』">
 
 <small>葛飾北斎『冨嶽三十六景 登戸浦』、1830 年（天保元年）から 1834 年（天保 5 年）ごろ。
 パブリックドメイン（メトロポリタン美術館の所蔵品、<a href="https://commons.wikimedia.org/wiki/File:%E5%86%A8%E5%B6%BD%E4%B8%89%E5%8D%81%E5%85%AD%E6%99%AF_%E7%99%BB%E6%88%B8%E6%B5%A6-Noboto_Bay_(Noboto_no_ura),_from_the_series_Thirty-six_Views_of_Mount_Fuji_(Fugaku_sanj%C5%ABrokkei)_MET_DP141051.jpg">Wikimedia Commons</a> より）</small>
